@@ -12,6 +12,6 @@ Deep Q-learning and Epsilon Greedy Policies to tackle the OpenAI MsPacman enviro
 With all of our components in place, we can then calculate the loss to train our network.
 7. Once training has finished, we'll evaluate the performance of our agent graphically and through a demonstration
 
-###Demonstration
+### Demonstration (1500 episodes)
 
-https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL4SwDa2US0wCi7O8Hk%2F200w.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;width=40
+![demo](https://media.giphy.com/media/L4SwDa2US0wCi7O8Hk/giphy.gif)
