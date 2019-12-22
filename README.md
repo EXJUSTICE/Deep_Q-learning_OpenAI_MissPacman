@@ -11,3 +11,7 @@ Deep Q-learning and Epsilon Greedy Policies to tackle the OpenAI MsPacman enviro
 6. Once step 5 has finished,we move to generate our target y-values, R' and A', that are required for the loss calculation. While the former is simply discounted from R, we obtain the A' by feeding S' into our network.
 With all of our components in place, we can then calculate the loss to train our network.
 7. Once training has finished, we'll evaluate the performance of our agent graphically and through a demonstration
+
+###Demonstration
+
+https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FL4SwDa2US0wCi7O8Hk%2F200w.gif&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;width=40
