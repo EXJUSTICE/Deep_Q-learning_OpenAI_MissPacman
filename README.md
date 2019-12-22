@@ -13,5 +13,7 @@ With all of our components in place, we can then calculate the loss to train our
 7. Once training has finished, we'll evaluate the performance of our agent graphically and through a demonstration
 
 ### Demonstration (1500 episodes)
+<p align="center">
+  <img width="" height="" src="https://media.giphy.com/media/L4SwDa2US0wCi7O8Hk/giphy.gif">
+</p>
 
-![demo](https://media.giphy.com/media/L4SwDa2US0wCi7O8Hk/giphy.gif)
