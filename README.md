@@ -1,5 +1,6 @@
 # Automating Pac-man with Deep Q-learning: An Implementation in Tensorflow.
 Deep Q-learning and Epsilon Greedy Policies to tackle the OpenAI MsPacman environment
+For [Towards Data Science](https://towardsdatascience.com/automating-pac-man-with-deep-q-learning-an-implementation-in-tensorflow-ca08e9891d9c).
 
 ### Summary
 
